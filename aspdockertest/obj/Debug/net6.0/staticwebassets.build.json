@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+kH9mbsQX2kNFlaDV4WInleC2ZORbSx5JwbtrUIMn80=",
+  "Source": "aspdockertest",
+  "BasePath": "_content/aspdockertest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
